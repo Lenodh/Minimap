@@ -80,7 +80,7 @@ cssStyle = `
   font-weight:bold;
 }
 
-#colors {
+/*#colors {
   margin-left: 0.333em !important;
 }
 
@@ -103,7 +103,7 @@ cssStyle = `
   left: initial !important;
   position: initial !important;
   display: inline-block !important;
-}`;
+}*/`;
 
 htmlFragment = `
 <div id="minimapbg">
