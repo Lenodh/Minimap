@@ -1,4 +1,11 @@
 {
+  "Asuka's Vietnamese Girl": {
+    "name": "VietnameseGirl.png",
+    "x": 5658,
+    "y":  2596,
+    "width": 281,
+    "height": 471
+  },
   "Ika-chan": {
     "name": "Ika-chan.png",
     "x": 5732,
@@ -19,13 +26,6 @@
     "y":  3636,
     "width": 455,
     "height": 302
-  },
-  "Asuka's Vietnamese Girl": {
-    "name": "VietnameseGirl.png",
-    "x": 5658,
-    "y":  2596,
-    "width": 281,
-    "height": 471
   }
   
 }
