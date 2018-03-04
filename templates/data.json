@@ -1,4 +1,18 @@
 {
+  "Ika-chan": {
+    "name": "Ika-chan.png",
+    "x": 5732,
+    "y": 2436,
+    "width": 105,
+    "height": 129
+  },
+  "Quazar": {
+    "name": "Quazar.png",
+    "x": -91,
+    "y":  5529,
+    "width": 438,
+    "height": 153
+},
   "Strength": {
     "name": "Strength.png",
     "x": 6300,
