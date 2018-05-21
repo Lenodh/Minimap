@@ -1,4 +1,11 @@
 {
+  "AnPaci Ball": {
+    "name": "AnPaci.png",
+    "x": -975,
+    "y":  -628,
+    "width": 64,
+    "height": 62
+  },
   "Asuka's Vietnamese Girl": {
     "name": "VietnameseGirl.png",
     "x": 5658,
