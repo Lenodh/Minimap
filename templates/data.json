@@ -1,4 +1,11 @@
 {
+  "Amethyst Kingdom Main Base": {
+    "name": "Amethystbase.png",
+    "x": 6297,
+    "y":  -988,
+    "width": 682,
+    "height": 241
+  },
   "AnPaci Ball": {
     "name": "AnPaci.png",
     "x": -966,
